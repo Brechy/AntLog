@@ -25,7 +25,8 @@ yarn install
 yarn start
 ```
 This should display a large QR code in your terminal along with instructions "Scan the QR code above with Expo Go (Android) or the Camera app (iOS)".
+
 If you happen to have XCode installed already, you can use the options for opening an emulator for iPhone or Android, however the Expo Go app makes the
 demo process a little easier. :)
 
-##Now go check out those ants!
+Now go check out those ants!
